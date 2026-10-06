@@ -1,0 +1,14 @@
+# Local configuration and working material
+.env
+.env.*
+.claude/
+.codex/
+*.local.md
+drafts/
+work/
+*.psd
+*.psb
+*.blend
+*.log
+Thumbs.db
+.DS_Store

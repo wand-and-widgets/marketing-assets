@@ -2,7 +2,7 @@
 
 Official Wand & Widgets promotional media for Heavy Lore.
 
-The images are layouts composed from actual Heavy Lore game captures. The animated WebP files use recorded native interactions at their original speed, with short holds at the endpoints. No new image-model-generated promotional illustration was created for this page.
+The images show Heavy Lore in use. The animated WebP files show the module's interactions.
 
 The fictional stories and artwork visible inside demonstration objects are examples, not a bundled adventure or a promise of included assets.
 
